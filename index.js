@@ -44,7 +44,7 @@ function playSound(key) {
             audio = kick;
             break;
 
-        case "weird":
+        case "fatty":
             audio = fattyrealthemetune;
             break;
 
